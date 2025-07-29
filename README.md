@@ -72,3 +72,6 @@ Punya ide "jahat" lainnya? Silakan buat *pull request*. Tapi ingat, jangan terla
 ## Lisensi
 
 Didistribusikan di bawah Lisensi MIT. Bebas dipakai.
+
+## Wiki
+https://github.com/antonpras/stackunflow-website.wiki.git
